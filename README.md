@@ -1,3 +1,3 @@
 # .github
 
-Organization-wide metarepository.
+Organization-wide meta-repository.
